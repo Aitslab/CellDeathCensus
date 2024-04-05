@@ -1,2 +1,2 @@
 # CellDeathCensus
-repository for the Cell Death Census publication
+repository for the Cell Death Census 2024

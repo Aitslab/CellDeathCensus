@@ -1,0 +1,67 @@
+Renamed column in Cell Death Census	UniProt	DeathBase	ApoCanD	yApoptosis	FerrDB_V2_extendeddata	FerrDB_V2	ncRDeathDB_V2	MCDB	iPCD	GO	XDeathDB	LncPCD	RCD Map
+Action_Mode							Action_Mode					LncRNA Regulatory Mechanism	
+Caution					Caution	caution							
+chromosome							chromosome						
+Confidence					Confidence	confidence							
+Confidence_Level								Confidence_Level					
+Dependence					Dependence								
+Description		Description		description			Description (last column)						Description
+EC	EC number												
+Element external id													Element external id
+Ensembl	Ensembl	extracted from Link_1	Deathbase		ENSG_stable				Ensembl Gene ID			Ensembl ID	Ensembl
+Evidence		Evidence											
+Evidence					Evidence	evidence							
+Experiments					Experiments	experiments							
+Family		Family											
+GO				go_id				GO_Identifier		Direct annotation (annotation_class_list)			
+GOLabels								GO_Term		Direct annotation (annotation_class_list_label)			
+HGNC_ID					HGNC_ID	hgncid							HGNC
+id					id	id	id			Acc (id)			
+interpro				interpro									
+iPCD ID									iPCD ID				
+Kegg Genes													Kegg Genes
+Latest_update					Latest_update	latestupdate							
+length				length									
+Link_Deathbase			Link_3										
+Link_Ensembl		Link_1											
+Link_PDB			Link_5										
+Link_UniProt		Link_2	Link_2										
+Links							Links						
+location				location									
+map_location							map_location						
+miRBase_ID							miRBase_ID						
+miRBase_mature_ID							miRBase_mature_ID						
+NCBI_GeneID	GeneID												Entrez Gene
+NCBI_TaxID	Organism (ID)						tax_id			Organism (taxon)			
+PANTHER Family													PANTHER Family
+Pathway	added value during processing based on UniProt_Keyword	Process	added value Apoptosis during processing	added value Apoptosis during processing	RCD	rcd	Pathway			added value during processing based on GOSearch	cell_death	Cell Death Processes	
+PDB			Structure										
+PMID		Refs		pubmed_id	PMID	pmid	PMID	MC_PMID				PMID	PubMed
+Process	added value during processing based on UniProt_Keyword	Pathway		process	Pathway	pathway				added value during processing based on GOSearch			
+Reactome													Reactome
+RefSeq													RefSeq
+related_info				related_info									
+Remark					Remark	remark							
+RNA Category													
+Sequence				sequence					Sequence				
+sgd				sgd									
+Source					Data_source	datasource				Source (source)			
+Species	Organism	Species	added during processing		Exp_organism	testin	Organism			Organism (taxon label)	added during processing	Species	
+Symbol	Gene Names (primary)	Name	Symbol	gene_name	Symbol_or_reported_abbr	symbol	miRNA_symbol	Gene_Name	Gene Name	Gene/product (bioentity label)	symbol	LncRNA Name	Symbol
+Synonyms	Protein names; Gene Names	Synonyms		gene_alias				"merge of Protein_Name, Synonyms"		"merge of Gene/product name (bioentity name, Synonyms (synonym)"			"merge of Synonyms_1, Name, Full name, Former  symbols, HGNC Symbol"
+system_name				system_name									
+Target_NCBI_GeneID							geneid						
+Target_Symbol							Gene_Symbol						
+Target_Synonyms							"merge of Synonyms, Description (first from left),  Full_name_from_nomenclature_authority, Other_designations"						
+Target_Type							type_of_gene						
+Tissue							Tissue					Cell Type	
+Type					Gene_type_hgnc_locus_type_or_other	uniformgenetype	RNA Category			Type (type)			Type
+UniProt_AC	Entry	extracted from Link_2	Uniprot	uniprot	UniProtAC	uniprotac		UniProt_Accession	UniProt ID	extracted from id			Uniprot
+UniProt_EntryName	Entry Name												
+			removed Link_1										
+			removed Homologues Protein										
+			removed Link_2					       ''					
+			removed Link_4										
+			removed Link_6										
+			removed BioAssays										
+												"removed Disease Name, Expression, Year and Title"	
